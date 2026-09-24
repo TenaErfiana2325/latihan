@@ -1,0 +1,12 @@
+{
+    "name": "user/latihan",
+    "authors": [
+        {
+            "name": "tenaerfiana",
+            "email": "tenatenut8@gmail.com"
+        }
+    ],
+    "require": {
+        "phpoffice/phpspreadsheet": "^5.8"
+    }
+}
